@@ -1,1 +1,32 @@
+# MongoDB For Storing and Retrieving Data For Android
 
+#### **Introduction**
+
+As a mobile app developer, we all know the importance of data and its storage. MongoDB is one among those databases used for storing the desired data. It is an open-source, document-oriented database. If you need step by step explanation of the topic, you can check our article here: [MongoDB For Storing and Retrieving Data For Android](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
+
+#### **Here we are using MongoLab to access MongoDB. Follow the below steps to complete the task:**
+
+ 1. Login to MongoLab and create a database and collections.   
+ 2. Get your API key.   
+ 3. Saving the data into the MongoDB collection. 
+ 4. Fetching the stored data from the MongoDB.
+
+#### **Now Run your project and check the output. The below given emulator output I got:**
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/10/Project-Output-329x565.png)](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
+
+This tutorial has been presented by Nimblechapps - The coolest [Android App Development Company](https://www.nimblechapps.com/android-app-development-company). Checkout our Android APP Portfolio.
+
+     Provide us your valuable comment in our blog comment section.
+
+##### **Read other Interesting android blog:**
+
+ 1. [Creating Tinder Like Swipe Slider For Android](https://insights.nimblechapps.com/app-development/android-app-development/creating-tinder-like-swipe-slider-for-android)
+ 2. [Integrate Firebase Push Notifications in Android Application](https://insights.nimblechapps.com/app-development/android-app-development/integrate-firebase-push-notifications-android-application)
+ 3. [Alert Dialog And Custom Dialog For Android](https://insights.nimblechapps.com/app-development/android-app-development/alert-dialog-custom-dialog-android)
+ 4. [How to Integrate Dropbox with your Android APP and Perform CRUD ActionAndroid](https://insights.nimblechapps.com/app-development/android-app-development/how-to-integrate-dropbox-with-your-android-app-and-perform-crud-action)
+ 5. [How To Use the Font Awesome Icon Pack in an Android](https://insights.nimblechapps.com/app-development/android-app-development/how-to-use-the-font-awesome-icon-pack-in-an-android)
+
+## **License**
+
+Copyright (c) 2017 Nimblechapps
