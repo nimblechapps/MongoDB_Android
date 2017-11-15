@@ -15,7 +15,7 @@ As a mobile app developer, we all know the importance of data and its storage. M
 
 [![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/10/Project-Output-329x565.png)](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
 
-This tutorial has been presented by Nimblechapps - The coolest [Android App Development Company](https://www.nimblechapps.com/android-app-development-company). Checkout our Android APP Portfolio.
+This tutorial has been presented by Nimblechapps - The coolest [Android App Development Company](https://www.nimblechapps.com/android-app-development-company). Checkout our [Android APP Portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
 
      Provide us your valuable comment in our blog comment section.
 
